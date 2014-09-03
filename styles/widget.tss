@@ -1,0 +1,22 @@
+"#resourceTray": {
+	width: 140,
+	left: -140,
+	backgroundColor: '#F0F0F0',
+},
+
+"#menu": {
+	top: 40,
+	bottom: 100,	
+	backgroundColor: 'transparent'
+}
+
+"#resourceTrayToolbar": {
+	top: 0,
+	left: 0,
+	height: 40
+},
+
+"#resourceTrayFooter": {
+	bottom: 0,
+	height: 100
+}

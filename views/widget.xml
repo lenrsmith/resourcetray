@@ -1,0 +1,6 @@
+<Alloy>
+	<View id="resourceTray">
+		<View id="content">
+		</View>
+	</View>
+</Alloy>
